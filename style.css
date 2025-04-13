@@ -1,0 +1,23 @@
+#dov{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(31, 29, 29);
+}
+#letra{
+    display: flex;
+    justify-content: center;
+    color: rgb(111, 104, 175);
+    font-size:larger;
+}
+#p1{
+    display:flex;
+    justify-content: center;
+    color: white;
+}
+#des{
+    display:flex;
+    justify-content: center;
+    color: rgb(72, 113, 129);
+}
